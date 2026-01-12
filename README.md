@@ -1,6 +1,7 @@
 # Puffles Automatic Video Editor App
 
 Very simple video editor made to cut streams down to the most impactful scenes. It's done by getting an average dB of the stream and then cutting out clips that fall under that dB. 
+<img width="736" height="328" alt="image" src="https://github.com/user-attachments/assets/db2fb9f8-b7f2-4bbf-9de4-34910ba6fb8b" />
 
 # Installation
 
@@ -19,6 +20,5 @@ Check Chunk Size
 Cut-in Buffer Size
     -The buffer is extra seconds before that included clip that lets viewers see whats happening before those impactful clips
     
-<img width="736" height="331" alt="image" src="https://github.com/user-attachments/assets/db2fb9f8-b7f2-4bbf-9de4-34910ba6fb8b" />
 
 
