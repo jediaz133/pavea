@@ -19,5 +19,6 @@ Check Chunk Size
 Cut-in Buffer Size
     -The buffer is extra seconds before that included clip that lets viewers see whats happening before those impactful clips
     
-    <img width="736" height="331" alt="image" src="image.png" />
+<img width="736" height="331" alt="image" src="https://github.com/user-attachments/assets/db2fb9f8-b7f2-4bbf-9de4-34910ba6fb8b" />
+
 
