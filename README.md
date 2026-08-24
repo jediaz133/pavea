@@ -7,7 +7,9 @@ Very simple video editor made to cut streams down to the most impactful scenes. 
 
 Ensure wxWidgets, and ffmpeg are both installed.
 
-Then just use the install.sh script. 
+Then just use the install.sh script.
+
+Note: The installer was made for arch on GNOME. Never really tested for any other distro/DE.
 
 # Options
 dB Sensitivity Adjust
